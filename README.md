@@ -1,6 +1,6 @@
 # SimpleMCP
 
-A minimalist implementation of the Model-Controller-Presenter (MCP) pattern, designed for building scalable and maintainable applications.
+A minimalist implementation of the Model-Context-Protocol (MCP) pattern, designed for building scalable applications ingestible by LLMs.
 
 ## Features
 
